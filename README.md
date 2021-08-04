@@ -1,3 +1,10 @@
+# Installation or development
+<h5>* git clone https://github.com/cokhikmah/simple-reactjs-chart.git</h5>
+<h5>* cd simple-reactjs-chart</h5>
+<h5>* npm i && npm start</h5>
+
+![Screenshot at 2021-08-05 01-56-02](https://user-images.githubusercontent.com/26646542/128239428-028e6dd1-b396-4dfb-9f63-fc692c9acaa7.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
